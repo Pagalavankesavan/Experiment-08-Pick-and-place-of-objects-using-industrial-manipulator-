@@ -1,4 +1,4 @@
-Name: Tamzhil pagalavan
+Name: Tamilpagalavan
 
 # Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
 
